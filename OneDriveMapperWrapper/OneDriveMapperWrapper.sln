@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDriveMapperWrapper", "OneDriveMapperWrapper\OneDriveMapperWrapper.csproj", "{8ECD3FB1-5838-4397-B46A-2ACAE389AE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneDriveMapperWrapper.UnitTests", "OneDriveMapperWrapper.UnitTests\OneDriveMapperWrapper.UnitTests.csproj", "{EEC35F4A-6876-4A02-BB83-D3789770CD20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECD3FB1-5838-4397-B46A-2ACAE389AE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECD3FB1-5838-4397-B46A-2ACAE389AE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECD3FB1-5838-4397-B46A-2ACAE389AE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECD3FB1-5838-4397-B46A-2ACAE389AE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC35F4A-6876-4A02-BB83-D3789770CD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC35F4A-6876-4A02-BB83-D3789770CD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC35F4A-6876-4A02-BB83-D3789770CD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC35F4A-6876-4A02-BB83-D3789770CD20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9650291-F98A-4F9E-8A0C-BF377291B663}
+	EndGlobalSection
+EndGlobal
